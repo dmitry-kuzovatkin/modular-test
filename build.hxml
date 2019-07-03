@@ -1,0 +1,8 @@
+-lib modular
+-lib plumbum
+-lib coconut.data
+
+-cp src
+
+-main Main
+-js bin/modularity.js
